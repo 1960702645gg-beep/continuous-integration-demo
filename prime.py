@@ -1,3 +1,4 @@
+# Adding a bug for review
 import math
 
 def is_prime(number):
